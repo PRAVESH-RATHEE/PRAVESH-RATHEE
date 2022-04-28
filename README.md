@@ -18,7 +18,7 @@
 
 - :telescope: I’m working as a AI Software Engineer and contributing to develop solutions based on Artificial Intelligence.
 
-- :seedling: Exploring Data Science and Deep Learning.
+- :seedling: Exploring Deep Learning & Data Science.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and LeetCode.
 
